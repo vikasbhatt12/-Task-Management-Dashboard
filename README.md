@@ -37,10 +37,10 @@ Open a new terminal:
 ```bash
 cd frontend
 npm install
-npm start
+npm run dev
 ```
 
-Frontend will run on http://localhost:3000.
+Frontend will run on http://localhost:5173.
 
 
 ## 🔧 API Endpoints (Backend)
